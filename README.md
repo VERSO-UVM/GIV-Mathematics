@@ -32,9 +32,13 @@ If this does not work we can use [https://jupyter.org/try-jupyter/lab/](https://
 Guidelines for contributing to the project.
 
 Fork the repository
+
 Create a new branch (git checkout -b feature-branch)
+
 Commit your changes (git commit -m 'Add feature')
+
 Push to the branch (git push origin feature-branch)
+
 Open a Pull Request
 
 ## License
